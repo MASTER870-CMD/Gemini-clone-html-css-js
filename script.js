@@ -12,7 +12,7 @@ const photoInput = document.getElementById("photoInput");
 let currentUserMessage = null;
 let isGeneratingResponse = false;
 
-const GOOGLE_API_KEY = "<Your-api-key>";
+const GOOGLE_API_KEY = "AIzaSyAChHq9fRZOm9ut6WE9m9CdupKMpWEiGDs"; // this is a dummy keu past your key avaliable for free in Gemini website
 const API_REQUEST_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GOOGLE_API_KEY}`;
 
 // Scroll helper
