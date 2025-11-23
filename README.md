@@ -2,7 +2,7 @@
 
 A simple web-based clone of the Google Gemini interface, built with HTML, CSS, and JavaScript. This project provides a basic front-end structure for interacting with a large language model.
 
-## 📲 Screen shot
+## 📲 Screen shot (1)
  <img width="1325" height="625" alt="Screenshot 2025-11-23 144550" src="https://github.com/user-attachments/assets/fb533701-e994-4d9d-8cb8-e2db73e33b0c" />
 
 
@@ -14,6 +14,9 @@ A simple web-based clone of the Google Gemini interface, built with HTML, CSS, a
 *   **Local Storage:** Persists the light/dark theme preference
 *   **Navbar:** Displays a logo and theme toggle button.
 *   **Header:** Displays a greeting.
+
+## 📲 Screen shot (2)
+<img width="1326" height="626" alt="Screenshot 2025-11-23 144831" src="https://github.com/user-attachments/assets/8b8c7e07-e8fd-4e98-899e-3be870b7f2e1" />
 
 ## Requirements
 
