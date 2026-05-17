@@ -1,4 +1,4 @@
-# Gemini Clone.
+# Gemini Clone
 
 A simple web-based clone of the Google Gemini interface, built with HTML, CSS, and JavaScript. This project provides a basic front-end structure for interacting with a large language model.
 
